@@ -2,7 +2,7 @@
 
 int Mult(int a, int b) {return a*b;}
 
-double Div(double a, double b) {return a/b;}
+double Div3(double a, double b, double c) {return a/b/c;}
    
 int main()
 {
